@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SuitMedia</string>
+    <string name="footer_login">Copyright © 2020 Suitmedia All Rights Reserved.</string>
+    <string name="welcome">Welcome</string>
+    <string name="header_login">This is app for suitmedia mobile developer test</string>
+    <string name="type_name_here">Type name here…</string>
+    <string name="type_text_palindrome">Type text palindrome</string>
+    <string name="next">Next</string>
+    <string name="check">Check</string>
+    <string name="hallo">Hallo</string>
+    <string name="choose_event">Choose Event</string>
+    <string name="choose_guest">Choose Guest</string>
+    <string name="events">Events</string>
+    <string name="guests">Guests</string>
+    <string name="card_title">Card Title</string>
+    <string name="card_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="date_dummy">15 Jan 2021</string>
+    <string name="clock_dummy">9.00 AM</string>
+    <string name="name_dummy">John Doe</string>
+    <string name="name">Name</string>
+    
+</resources>
