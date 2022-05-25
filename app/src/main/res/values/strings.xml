@@ -18,5 +18,7 @@
     <string name="clock_dummy">9.00 AM</string>
     <string name="name_dummy">John Doe</string>
     <string name="name">Name</string>
-    
+    <string name="background_header_login">background_header_login</string>
+    <string name="second_background_header_login">second_background_header_login</string>
+
 </resources>
