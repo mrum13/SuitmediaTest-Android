@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SuitMedia">
         <activity
-            android:name=".LoginActivity"
+            android:name=".Screen1Activity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Screen2Activity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -5,8 +5,9 @@
       <map>
         <entry key="app/src/main/res/drawable/edit_text.xml" value="0.1" />
         <entry key="app/src/main/res/layout-v28/activity_login.xml" value="0.19375" />
-        <entry key="app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.18" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_screen2.xml" value="0.19375" />
       </map>
     </option>
   </component>
